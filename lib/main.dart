@@ -103,7 +103,7 @@ class _Tab2State extends State<Tab2> {
       child: Stepper(
         steps: [
           Step
-            (title: Text('step1'),
+            (title: Text('Step1'),
               content:Container(
                 height: 200,
                 width: 300,
