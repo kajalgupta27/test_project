@@ -122,7 +122,7 @@ class _Tab2State extends State<Tab2> {
 
           ),
           Step
-            (title: Text('step2'),
+            (title: Text('Step2'),
               content: Container(
                 height: 200,
                 width: 300,
